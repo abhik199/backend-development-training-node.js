@@ -42,5 +42,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Instructor
 
 Abhishek Kirar
-
-## Contact
